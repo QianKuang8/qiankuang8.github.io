@@ -2,11 +2,6 @@
 
 # 初始化Mac
 
-## 系统设置
-
-鼠标滚轮
-设置 - 自然滚动 [on → off]
-
 ## 开发软件
 
 ### Sublime Text
@@ -51,3 +46,9 @@ https://zipzapmac.com/Go2Shell
 隐藏顶端状态栏图标
 
 https://github.com/dwarvesf/hidden
+
+### Scroll Reverser
+
+鼠标滚轮反向
+
+https://pilotmoon.com/scrollreverser/
